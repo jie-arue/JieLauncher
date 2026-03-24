@@ -1,5 +1,10 @@
 # Jie Launcher（ジエ・ランチャー）
 
+[![Release](https://img.shields.io/github/v/release/jie-arue/tapest?label=RELEASE&color=blue)](https://github.com/jie-arue/tapest/releases)
+[![Downloads](https://img.shields.io/github/downloads/jie-arue/tapest/total?label=DOWNLOADS&color=brightgreen)](https://github.com/jie-arue/tapest/releases)
+![Language](https://img.shields.io/badge/LANGUAGE-KOTLIN-orange)
+![Platform](https://img.shields.io/badge/PLATFORM-ANDROID-4dc71f)
+
 「ついスマホを触っちゃう…」を賢く解決！  
 **OCR機能搭載・タイマー＆暗フィルター付きフローティング・ランチャー**
 
