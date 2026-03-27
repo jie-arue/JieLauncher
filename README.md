@@ -1,7 +1,7 @@
 # Jie Launcher（ジエ・ランチャー）
 
-[![Release](https://img.shields.io/github/v/release/jie-arue/tapest?label=RELEASE&color=blue)](https://github.com/jie-arue/tapest/releases)
-[![Downloads](https://img.shields.io/github/downloads/jie-arue/tapest/total?label=DOWNLOADS&color=brightgreen)](https://github.com/jie-arue/tapest/releases)
+[![Release](https://img.shields.io/github/v/release/jie-arue/JieLauncher?label=RELEASE&color=blue)](https://github.com/jie-arue/JieLauncher/releases)
+[![Downloads](https://img.shields.io/github/downloads/jie-arue/JieLauncher/total?label=DOWNLOADS&color=brightgreen)](https://github.com/jie-arue/JieLauncher/releases)
 ![Language](https://img.shields.io/badge/LANGUAGE-KOTLIN-orange)
 ![Platform](https://img.shields.io/badge/PLATFORM-ANDROID-4dc71f)
 
